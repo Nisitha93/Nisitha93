@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nisithamadhawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nisithamadhawa" height="30" width="40" /></a>
 <a href="https://fb.com/nisitha.madhawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nisitha.madhawa" height="30" width="40" /></a>
+<a href="https://instagram.com/mister_fister__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mister_fister__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
