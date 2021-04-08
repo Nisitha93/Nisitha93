@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hi there ! 👋</h1>
 <h5 I’m Nisitha Madhawa Bandara </h5>
 
 - 🌱 I’m an Undergraduate student at SLIIT malabe
