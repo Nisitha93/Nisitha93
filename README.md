@@ -2,8 +2,8 @@
 <h5 I’m Nisitha Madhawa Bandara </h5>
 
 - 🌱 I’m an Undergraduate student at SLIIT malabe
-- 👀 I’m interested in Information Technology
-- 💞️ I’m looking for an intership in a reputed IT based company
+- 💞️ I’m interested in Information Technology
+- 👀 I’m looking for an intership in a reputed IT based company
 - 📫 How to reach me: nisitha.dk@gmail.com
 
 <h3 align="left">Connect with me:</h3>
