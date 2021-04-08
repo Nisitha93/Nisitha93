@@ -1,11 +1,11 @@
 <h1>Hi there ! 👋</h1>
 <h5 I’m Nisitha Madhawa Bandara </h5>
-<p>
+
 - 🌱 I’m an Undergraduate student at SLIIT malabe
 - 💞️ I’m interested in Information Technology
 - 👀 I’m looking for an intership in a reputed IT based company
 - 📫 How to reach me: nisitha.dk@gmail.com
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nisithamadhawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nisithamadhawa" height="30" width="40" /></a>
