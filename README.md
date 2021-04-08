@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
-
+<h1>Hi there 👋</h1>
 <h5 I’m Nisitha Madhawa Bandara </h5>
+
 - 🌱 I’m an Undergraduate student at SLIIT malabe
 - 👀 I’m interested in Information Technology
 - 💞️ I’m looking for an intership in a reputed IT company
