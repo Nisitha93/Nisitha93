@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nisitha Madhawa Bandara
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently an Undergraduate at SLIIT
+- 🌱 I’m an Undergraduate student at SLIIT malabe
 - 💞️ I’m looking for an intership in a reputed IT company
 - 📫 How to reach me: nisitha.dk@gmail.com
 
