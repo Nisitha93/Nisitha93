@@ -1,8 +1,7 @@
 
 
 <h1>Hi there ! 👋</h1>
-<h5 I’m Nisitha Madhawa Bandara </h5>
-
+<h5 I’m Nisitha Madhawa 😀</h5>
 - 🌱 Graduated from SLIIT Sri Lanka
 - 💞️ I’m interested in Programing / Software Engineering
 - 📫 How to reach me: nisitha.dk@gmail.com
