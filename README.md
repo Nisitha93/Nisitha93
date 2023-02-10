@@ -3,8 +3,8 @@
 <h1>Hi there ! 👋</h1>
 <h5> I’m Nisitha Madhawa 😀 </h5>
 
-- 🌱 Graduated from SLIIT Sri Lanka
-- 💞️ I’m interested in Software Engineering
+- 🎓 Graduated from SLIIT Sri Lanka
+- ⭐ I’m interested in Software Engineering
 - 📫 How to reach me: nisitha.dk@gmail.com
 
 <h3 align="left">Connect with me:</h3>
